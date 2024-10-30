@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashanksn111, an AI/ML enthusiast and code explorer!
+- 👋 Hi, I’m @shashank_s, an AI/ML enthusiast and code explorer!
 - 👀 I’m interested in developing impactful machine learning models, building efficient automation tools, and exploring the latest in generative AI.
 - 🌱 I’m currently learning advanced model fine-tuning techniques, R, and interactive web apps with Streamlit.
 - 💞️ I’m looking to collaborate on open-source AI projects, innovative coding challenges, or anything that pushes the boundaries of tech.
